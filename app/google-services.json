@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "891081540377",
+    "project_id": "allloginauth",
+    "storage_bucket": "allloginauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891081540377:android:c6c3b162d5ee44020ebb88",
+        "android_client_info": {
+          "package_name": "com.example.loginwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891081540377-9kjlk6p76193cet2udqhnhjop3gftmho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginwithfirebase",
+            "certificate_hash": "0dd15532b78bf7e0a1822ad83ed92316dcd36629"
+          }
+        },
+        {
+          "client_id": "891081540377-ik8qhfif7648ul8ki2dpm1mu5jlf33ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhurm4buFg4J-mM92Ptvit70VjmLRCOz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891081540377-ik8qhfif7648ul8ki2dpm1mu5jlf33ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
